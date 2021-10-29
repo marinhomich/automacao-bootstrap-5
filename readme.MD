@@ -4,6 +4,14 @@
 
 Esse é um projeto para automação do Framework Bootstrap 5.
 
+## Funções
+
+* Função para compilar o SASS e adcionar os prefixos de CSS
+* Função para iniciar o browser
+* Função de watch do gulp
+* Função para juntar o JS puro
+* Função para unir os Plugins JS
+
 ## Requisitos
 
 * Ter instalado Node.js na versão 16.3.0;
@@ -15,4 +23,8 @@ Esse é um projeto para automação do Framework Bootstrap 5.
 * **Instale as dependências**
 ```bash
 npm install
+```
+* **Execute o Gulp**
+```bash
+gulp
 ```
