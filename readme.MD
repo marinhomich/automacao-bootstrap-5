@@ -19,7 +19,14 @@ Esse é um projeto para automação do Framework Bootstrap 5.
 
 ## Operações
 
-
+* **Clone este repositório**
+```bash
+https://github.com/marinhomich/automacao-bootstrap-5.git
+```
+* **Acesse a pasta do projeto**
+```bash
+cd automacao-bootstrap-5
+```
 * **Instale as dependências**
 ```bash
 npm install
